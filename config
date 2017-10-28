@@ -1,0 +1,10 @@
+ngx_addon_name=ngx_http_ericsten_module
+ngx_module_type=HTTP
+ngx_module_name=ngx_http_ericsten_module
+ngx_module_srcs="/src/nginx/ericsten/ngx_http_ericsten_module.c"
+
+. auto/module
+
+
+
+
